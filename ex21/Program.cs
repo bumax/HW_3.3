@@ -10,4 +10,4 @@ double d = Math.Sqrt(
     Math.Pow(Convert.ToInt32(dot2String[2]) - Convert.ToInt32(dot1String[2]), 2)
 );
 
-System.Console.WriteLine("Расстояние между точками: {0}", d.ToString("#.##") );
+System.Console.WriteLine("Расстояние между точками: {0}", d.ToString("#.##"));
